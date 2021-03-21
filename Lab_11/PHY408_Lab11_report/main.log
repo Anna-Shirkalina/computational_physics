@@ -1,0 +1,910 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.6)  7 DEC 2020 18:01
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2018-12-01>
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grffile.st
+y"
+Package: grffile 2017/06/30 v1.18 Extended file name support for graphics (HO)
+
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.st
+y"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.s
+ty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
+sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.
+sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkey
+s.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarer
+r.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds
+.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex
+.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcm
+ds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grffile Info: Option `multidot' is set to `true'.
+Package grffile Info: Option `extendedchars' is set to `false'.
+Package grffile Info: Option `space' is set to `true'.
+Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 494.
+) ("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks17
+\float@box=\box27
+\@float@everytoks=\toks18
+\@floatcapt=\box28
+)
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty
+"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty
+"
+Package: amstext 2000/06/29 v2.01 AMS text
+ ("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen105
+))
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+) ("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks20
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks21
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks22
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.st
+y"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.s
+ty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.sty
+"
+Package: caption 2020/05/30 v3.4k Customizing captions (AR)
+
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.st
+y"
+Package: caption3 2020/07/20 v1.12b caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen114
+\captionmargin@=\dimen115
+\captionwidth=\dimen116
+\caption@tempdima=\dimen117
+\caption@indent=\dimen118
+\caption@parindent=\dimen119
+\caption@hangindent=\dimen120
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count101
+\c@continuedfloat=\count102
+Package caption Info: float package is loaded.
+)
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcaption.
+sty"
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count103
+\c@subtable=\count104
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+f.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count105
+\scratchdimen=\dimen121
+\scratchbox=\box31
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen122
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks25
+)
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
+ase.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
+"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefine
+keys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 27.
+
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 27.
+
+("C:\Users\Anya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<images/Q1a_path0_tau10000.pdf, id=1, 501.55379pt x 495.04951pt>
+File: images/Q1a_path0_tau10000.pdf Graphic file (type pdf)
+<use images/Q1a_path0_tau10000.pdf>
+Package pdftex.def Info: images/Q1a_path0_tau10000.pdf  used on input line 35.
+(pdftex.def)             Requested size: 300.9346pt x 297.032pt.
+<images/Q1a_distances_tau10000.pdf, id=2, 776.17982pt x 443.01509pt>
+File: images/Q1a_distances_tau10000.pdf Graphic file (type pdf)
+<use images/Q1a_distances_tau10000.pdf>
+Package pdftex.def Info: images/Q1a_distances_tau10000.pdf  used on input line 
+40.
+(pdftex.def)             Requested size: 465.71149pt x 265.8111pt.
+
+[1
+
+{C:/Users/Anya/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<images/Q1a_path3_tau10000.pdf, id=12, 544.9158pt x 506.6127pt>
+File: images/Q1a_path3_tau10000.pdf Graphic file (type pdf)
+<use images/Q1a_path3_tau10000.pdf>
+Package pdftex.def Info: images/Q1a_path3_tau10000.pdf  used on input line 45.
+(pdftex.def)             Requested size: 326.952pt x 303.96996pt.
+ [2 <./images/Q1a_path0_tau10000.pdf>]
+<images/Q1a_path7_tau10000.pdf, id=43, 605.62259pt x 539.1342pt>
+File: images/Q1a_path7_tau10000.pdf Graphic file (type pdf)
+<use images/Q1a_path7_tau10000.pdf>
+Package pdftex.def Info: images/Q1a_path7_tau10000.pdf  used on input line 49.
+(pdftex.def)             Requested size: 363.37636pt x 323.48302pt.
+ [3 <./images/Q1a_distances_tau10000.pdf>]
+<images/Q1a_distances_tau1000.pdf, id=89, 621.52202pt x 427.11569pt>
+File: images/Q1a_distances_tau1000.pdf Graphic file (type pdf)
+<use images/Q1a_distances_tau1000.pdf>
+Package pdftex.def Info: images/Q1a_distances_tau1000.pdf  used on input line 5
+3.
+(pdftex.def)             Requested size: 372.91609pt x 256.27138pt.
+ [4 <./images/Q1a_path3_tau10000.pdf>]
+File: images/Q1a_path3_tau10000.pdf Graphic file (type pdf)
+<use images/Q1a_path3_tau10000.pdf>
+Package pdftex.def Info: images/Q1a_path3_tau10000.pdf  used on input line 58.
+(pdftex.def)             Requested size: 326.952pt x 303.96996pt.
+ [5 <./images/Q1a_path7_tau10000.pdf>]
+<images/Q1a_path7_tau1000.pdf, id=159, 619.35388pt x 529.7391pt>
+File: images/Q1a_path7_tau1000.pdf Graphic file (type pdf)
+<use images/Q1a_path7_tau1000.pdf>
+Package pdftex.def Info: images/Q1a_path7_tau1000.pdf  used on input line 62.
+(pdftex.def)             Requested size: 371.61519pt x 317.8459pt.
+ [6 <./images/Q1a_distances_tau1000.pdf>] [7]
+<images/Q1bi.pdf, id=207, 842.66821pt x 442.29242pt>
+File: images/Q1bi.pdf Graphic file (type pdf)
+<use images/Q1bi.pdf>
+Package pdftex.def Info: images/Q1bi.pdf  used on input line 78.
+(pdftex.def)             Requested size: 505.60483pt x 265.37749pt.
+ [8 <./images/Q1a_path7_tau1000.pdf>]
+<images/Q1bii.pdf, id=247, 711.13678pt x 455.30101pt>
+File: images/Q1bii.pdf Graphic file (type pdf)
+<use images/Q1bii.pdf>
+Package pdftex.def Info: images/Q1bii.pdf  used on input line 94.
+(pdftex.def)             Requested size: 426.68536pt x 273.18271pt.
+ [9 <./images/Q1bi.pdf>] [10 <./images/Q1bii.pdf>]
+Overfull \hbox (45.44429pt too wide) in paragraph at lines 131--132
+[]\OT1/cmr/m/n/10 We can cal-cu-late the mag-ne-ti-za-tion of a dipole ar-ray b
+y sim-ply us-ing \OT1/cmtt/m/n/10 np.sum(dipoles)\OT1/cmr/m/n/10 . 
+ []
+
+[11]
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 172--172
+[]\OT1/cmtt/m/n/10 Initialize empty energy, magnetization, dipole_array accumul
+ator lists[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 172--172
+[]\OT1/cmtt/m/n/10 Calculate current energy, magnetization using current dipole
+ value[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 172--172
+[]        \OT1/cmtt/m/n/10 append old E, magnetization and dipoles to respectiv
+e lists[] 
+ []
+
+<images/Q2_magnetizationT_1.0.pdf, id=374, 462.52798pt x 346.89601pt>
+File: images/Q2_magnetizationT_1.0.pdf Graphic file (type pdf)
+<use images/Q2_magnetizationT_1.0.pdf>
+Package pdftex.def Info: images/Q2_magnetizationT_1.0.pdf  used on input line 1
+78.
+(pdftex.def)             Requested size: 346.89513pt x 260.17136pt.
+
+LaTeX Warning: Reference `fig:q2c_energy' on page 12 undefined on input line 17
+9.
+
+
+LaTeX Warning: Reference `fig:q2c_energy' on page 12 undefined on input line 17
+9.
+
+[12]
+<images/Q2_energy_T_1.0.pdf, id=378, 462.52798pt x 346.89601pt>
+File: images/Q2_energy_T_1.0.pdf Graphic file (type pdf)
+<use images/Q2_energy_T_1.0.pdf>
+Package pdftex.def Info: images/Q2_energy_T_1.0.pdf  used on input line 184.
+(pdftex.def)             Requested size: 346.89513pt x 260.17136pt.
+
+
+LaTeX Warning: Reference `fig:q2c_magnet' on page 13 undefined on input line 18
+5.
+
+
+LaTeX Warning: Reference `fig:q2c_magnet' on page 13 undefined on input line 18
+5.
+
+[13 <./images/Q2_magnetizationT_1.0.pdf>]
+
+LaTeX Warning: Reference `fig:q2d_magnet_1' on page 14 undefined on input line 
+191.
+
+
+LaTeX Warning: Reference `fig:q2d_magnet_3' on page 14 undefined on input line 
+191.
+
+! Undefined control sequence.
+l.198 ... 100 frames, with a frame interval of \SI
+                                                  {200}{ms}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.200 ...ient themselves quickly; by $t = 1:30 \SI
+                                                  {}{s}$ mark, the spins hav...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `fig:q2e_magnet_1' on page 14 undefined on input line 
+200.
+
+<images/Q2e_magnetizationT_1.0.pdf, id=395, 462.52798pt x 346.89601pt>
+File: images/Q2e_magnetizationT_1.0.pdf Graphic file (type pdf)
+<use images/Q2e_magnetizationT_1.0.pdf>
+Package pdftex.def Info: images/Q2e_magnetizationT_1.0.pdf  used on input line 
+202.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+[14 <./images/Q2_energy_T_1.0.pdf>]
+
+LaTeX Warning: Reference `fig:q2e_magnet_2' on page 15 undefined on input line 
+207.
+
+<images/Q2e_magnetizationT_2.0.pdf, id=412, 462.52798pt x 346.89601pt>
+File: images/Q2e_magnetizationT_2.0.pdf Graphic file (type pdf)
+<use images/Q2e_magnetizationT_2.0.pdf>
+Package pdftex.def Info: images/Q2e_magnetizationT_2.0.pdf  used on input line 
+209.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+
+Overfull \hbox (20.36354pt too wide) in paragraph at lines 207--213
+[]\OT1/cmr/m/n/10 We an-i-mated the $\OML/cmm/m/it/10 T \OT1/cmr/m/n/10 = 2$ ca
+se. Our an-i-ma-tion is in \OT1/cmtt/m/n/10 images/Q2e[]AnimationT2.mp4\OT1/cmr
+/m/n/10 .
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:q2e_magnet_3' on page 15 undefined on input line 
+214.
+
+
+LaTeX Warning: File `Q2e_magnetizationT_3.0.pdf' not found on input line 216.
+
+
+! Package pdftex.def Error: File `Q2e_magnetizationT_3.0.pdf' not found: using 
+draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.216 ...s[scale=0.6]{Q2e_magnetizationT_3.0.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15 <./images/Q2e_magnetizationT_1.0.pdf>] [16 <./images/Q2e_magnetizationT_2.0
+.pdf>]
+
+LaTeX Warning: Reference `fig:q3a_protein1' on page 17 undefined on input line 
+229.
+
+
+LaTeX Warning: Reference `fig:q3a_energy1' on page 17 undefined on input line 2
+29.
+
+<images/Q3a_final_protein_T15_N30_n100000.pdf, id=432, 462.52798pt x 346.89601p
+t>
+File: images/Q3a_final_protein_T15_N30_n100000.pdf Graphic file (type pdf)
+<use images/Q3a_final_protein_T15_N30_n100000.pdf>
+Package pdftex.def Info: images/Q3a_final_protein_T15_N30_n100000.pdf  used on 
+input line 231.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+<images/Q3a_energy_vs_step_T15_N30_n100000.pdf, id=433, 462.52798pt x 346.89601
+pt>
+File: images/Q3a_energy_vs_step_T15_N30_n100000.pdf Graphic file (type pdf)
+<use images/Q3a_energy_vs_step_T15_N30_n100000.pdf>
+Package pdftex.def Info: images/Q3a_energy_vs_step_T15_N30_n100000.pdf  used on
+ input line 236.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+
+LaTeX Warning: Reference `fig:q3a_protein' on page 17 undefined on input line 2
+37.
+
+
+LaTeX Warning: Reference `fig:q3a_protein' on page 17 undefined on input line 2
+37.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:q3a_protein0.5' on page 17 undefined on input lin
+e 241.
+
+
+LaTeX Warning: Reference `fig:q3a_energy0.5' on page 17 undefined on input line
+ 241.
+
+<images/Q3a_final_protein_T5_N30_n100000.pdf, id=434, 462.52798pt x 346.89601pt
+>
+File: images/Q3a_final_protein_T5_N30_n100000.pdf Graphic file (type pdf)
+<use images/Q3a_final_protein_T5_N30_n100000.pdf>
+Package pdftex.def Info: images/Q3a_final_protein_T5_N30_n100000.pdf  used on i
+nput line 243.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+<images/Q3a_energy_vs_step_T5_N30_n100000.pdf, id=435, 462.52798pt x 346.89601p
+t>
+File: images/Q3a_energy_vs_step_T5_N30_n100000.pdf Graphic file (type pdf)
+<use images/Q3a_energy_vs_step_T5_N30_n100000.pdf>
+Package pdftex.def Info: images/Q3a_energy_vs_step_T5_N30_n100000.pdf  used on 
+input line 248.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+
+LaTeX Warning: Reference `fig:q3a_protein0.5' on page 17 undefined on input lin
+e 249.
+
+
+LaTeX Warning: Reference `fig:q3a_protein0.5' on page 17 undefined on input lin
+e 249.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:q3a_protein5' on page 17 undefined on input line 
+253.
+
+
+LaTeX Warning: Reference `fig:q3a_energy5' on page 17 undefined on input line 2
+53.
+
+<images/Q3a_final_protein_T50_N30_n100000.pdf, id=436, 462.52798pt x 346.89601p
+t>
+File: images/Q3a_final_protein_T50_N30_n100000.pdf Graphic file (type pdf)
+<use images/Q3a_final_protein_T50_N30_n100000.pdf>
+Package pdftex.def Info: images/Q3a_final_protein_T50_N30_n100000.pdf  used on 
+input line 255.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+<images/Q3a_energy_vs_step_T50_N30_n100000.pdf, id=437, 462.52798pt x 346.89601
+pt>
+File: images/Q3a_energy_vs_step_T50_N30_n100000.pdf Graphic file (type pdf)
+<use images/Q3a_energy_vs_step_T50_N30_n100000.pdf>
+Package pdftex.def Info: images/Q3a_energy_vs_step_T50_N30_n100000.pdf  used on
+ input line 260.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+
+LaTeX Warning: Reference `fig:q3a_protein5' on page 17 undefined on input line 
+261.
+
+
+LaTeX Warning: Reference `fig:q3a_protein5' on page 17 undefined on input line 
+261.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:q3a_energy5' on page 17 undefined on input line 2
+67.
+
+
+LaTeX Warning: Reference `fig:q3a_protein1' on page 17 undefined on input line 
+267.
+
+
+LaTeX Warning: Reference `fig:q3a_protein0.5' on page 17 undefined on input lin
+e 267.
+
+[17 <./images/Q3a_final_protein_T15_N30_n100000.pdf>]
+
+LaTeX Warning: Reference `fig:q3b_protein15' on page 18 undefined on input line
+ 273.
+
+
+LaTeX Warning: Reference `fig:q3b_energy15' on page 18 undefined on input line 
+273.
+
+
+LaTeX Warning: Reference `fig:q3b_protein5' on page 18 undefined on input line 
+273.
+
+
+LaTeX Warning: Reference `fig:q3b_energy5' on page 18 undefined on input line 2
+73.
+
+[18 <./images/Q3a_energy_vs_step_T15_N30_n100000.pdf> <./images/Q3a_final_prote
+in_T5_N30_n100000.pdf
+
+pdfTeX warning: pdflatex.exe (file ./images/Q3a_final_protein_T5_N30_n100000.pd
+f): PDF inclusion: multiple pdfs with page group included in a single page
+>] [19 <./images/Q3a_energy_vs_step_T5_N30_n100000.pdf> <./images/Q3a_final_pro
+tein_T50_N30_n100000.pdf
+
+pdfTeX warning: pdflatex.exe (file ./images/Q3a_final_protein_T50_N30_n100000.p
+df): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `fig:q3b_protein5' on page 20 undefined on input line 
+275.
+
+
+LaTeX Warning: Reference `fig:q3b_protein5' on page 20 undefined on input line 
+275.
+
+
+Overfull \hbox (1.80377pt too wide) in paragraph at lines 277--278
+[]\OT1/cmr/m/n/10 We ex-pect this. When $\OML/cmm/m/it/10 T$ \OT1/cmr/m/n/10 be
+-comes smaller, the Boltz-man fac-tor $[] []$
+ []
+
+[20 <./images/Q3a_energy_vs_step_T50_N30_n100000.pdf>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.297 ...np.exp(-(new_energy-energy)/T_array[j]):}
+                                                  /
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.297 ...np.exp(-(new_energy-energy)/T_array[j]):}
+                                                  /
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.299 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (32.95695pt too wide) in paragraph at lines 297--299
+\OT1/cmr/m/n/10 We also mod-ify line 135 to \OT1/cmtt/m/n/10 if random() < np.e
+xp(-(new$[]\OML/cmm/m/it/10 nergy \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 energy\OT
+1/cmr/m/n/10 )\OML/cmm/m/it/10 =T[]rray\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 j\OT1/
+cmr/m/n/10 ]) :
+ []
+
+
+Overfull \hbox (171.3101pt too wide) in paragraph at lines 297--299
+\OML/cmm/m/it/10 =Wealsoslightlymodifythecodeattheendofthescripttoaveragetheene
+rgyoverthelastquarterofthesimulationwhenT \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (10.60649pt too wide) in paragraph at lines 297--299
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 asrequeste
+d:Wefindthattheenergyaveragedoverlastquarterofsimulationsis \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (732.1677pt too wide) in paragraph at lines 297--299
+\OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 70\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 00\OML/cm
+m/m/it/10 :Thisissignificantlylowerthanthefinalenergyfoundinpartb:Wecanjustifyt
+hisbecausethesimulatedannealingprovidedamuchslowerdecreaseintemperaturewhichall
+owedthealgorithmtofindtheglobalminimumasopposedthelocalminimum$ 
+ []
+
+
+LaTeX Warning: Reference `fig:3d' on page 21 undefined on input line 303.
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 302--304
+\OT1/cmtt/m/n/10 We are asked to further explore the temperature and energy dep
+endence.
+ []
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 302--304
+\OT1/cmtt/m/n/10 We modify the script by running 500000 steps of the simulation
+ at each
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 302--304
+\OT1/cmtt/m/n/10 temperature from 10 to 0.5, decreasing the temperature by 0.5.
+ In
+ []
+
+
+Overfull \hbox (22.85794pt too wide) in paragraph at lines 302--304
+\OT1/cmtt/m/n/10 figure [] we look for evidence for a phase transition. We noti
+ce that
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 302--304
+\OT1/cmtt/m/n/10 that between temperature 8.8 and 6 we have a steady decreasing
+ slope,
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 302--304
+\OT1/cmtt/m/n/10 between temperature 6 and 4.5 we have a slope close to 0, and 
+again
+ []
+
+
+Overfull \hbox (38.24666pt too wide) in paragraph at lines 302--304
+\OT1/cmtt/m/n/10 a sharp slope between 4.5 and 3.5. Looking at this graph I wou
+ld predict
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 302--304
+\OT1/cmtt/m/n/10 that a phase transition occurs between T=4.5 and T=3.5 since w
+e see
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 302--304
+\OT1/cmtt/m/n/10 that energy being almost constant before that (we need a signi
+ficant
+ []
+
+<images/Q3d_iii.pdf, id=508, 462.52798pt x 346.89601pt>
+File: images/Q3d_iii.pdf Graphic file (type pdf)
+<use images/Q3d_iii.pdf>
+Package pdftex.def Info: images/Q3d_iii.pdf  used on input line 306.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+[21]
+<images/Q3b_final_protein_T15_N30_n1000000.pdf, id=512, 462.52798pt x 346.89601
+pt>
+File: images/Q3b_final_protein_T15_N30_n1000000.pdf Graphic file (type pdf)
+<use images/Q3b_final_protein_T15_N30_n1000000.pdf>
+Package pdftex.def Info: images/Q3b_final_protein_T15_N30_n1000000.pdf  used on
+ input line 312.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+<images/Q3b_energy_vs_step_T15_N30_n1000000.pdf, id=513, 462.52798pt x 346.8960
+1pt>
+File: images/Q3b_energy_vs_step_T15_N30_n1000000.pdf Graphic file (type pdf)
+<use images/Q3b_energy_vs_step_T15_N30_n1000000.pdf>
+Package pdftex.def Info: images/Q3b_energy_vs_step_T15_N30_n1000000.pdf  used o
+n input line 317.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+
+
+LaTeX Warning: Reference `fig:q3b_protein15' on page 22 undefined on input line
+ 318.
+
+
+LaTeX Warning: Reference `fig:q3b_protein15' on page 22 undefined on input line
+ 318.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/Q3b_final_protein_T5_N30_n1000000.pdf, id=514, 462.52798pt x 346.89601p
+t>
+File: images/Q3b_final_protein_T5_N30_n1000000.pdf Graphic file (type pdf)
+<use images/Q3b_final_protein_T5_N30_n1000000.pdf>
+Package pdftex.def Info: images/Q3b_final_protein_T5_N30_n1000000.pdf  used on 
+input line 323.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/Q3b_energy_vs_step_T5_N30_n1000000.pdf, id=515, 462.52798pt x 346.89601
+pt>
+File: images/Q3b_energy_vs_step_T5_N30_n1000000.pdf Graphic file (type pdf)
+<use images/Q3b_energy_vs_step_T5_N30_n1000000.pdf>
+Package pdftex.def Info: images/Q3b_energy_vs_step_T5_N30_n1000000.pdf  used on
+ input line 328.
+(pdftex.def)             Requested size: 277.51892pt x 208.1392pt.
+
+LaTeX Warning: Reference `fig:q3b_protein5' on page 22 undefined on input line 
+329.
+
+
+LaTeX Warning: Reference `fig:q3b_protein5' on page 22 undefined on input line 
+329.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[22 <./images/Q3d_iii.pdf> <./images/Q3b_final_protein_T15_N30_n1000000.pdf
+
+pdfTeX warning: pdflatex.exe (file ./images/Q3b_final_protein_T15_N30_n1000000.
+pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [23 <./images/Q3b_energy_vs_step_T15_N30_n1000000.pdf> <./images/Q3b_final_p
+rotein_T5_N30_n1000000.pdf
+
+pdfTeX warning: pdflatex.exe (file ./images/Q3b_final_protein_T5_N30_n1000000.p
+df): PDF inclusion: multiple pdfs with page group included in a single page
+>] [24 <./images/Q3b_energy_vs_step_T5_N30_n1000000.pdf>]
+
+LaTeX Warning: Reference `fig:q2d_magnet_1' on page 25 undefined on input line 
+342.
+
+
+LaTeX Warning: Reference `fig:q2d_magnet_3' on page 25 undefined on input line 
+342.
+
+<images/Q2_magnetizationT_1.0_3.png, id=602, 1928.20375pt x 1445.4pt>
+File: images/Q2_magnetizationT_1.0_3.png Graphic file (type png)
+<use images/Q2_magnetizationT_1.0_3.png>
+Package pdftex.def Info: images/Q2_magnetizationT_1.0_3.png  used on input line
+ 344.
+(pdftex.def)             Requested size: 1156.9312pt x 867.2467pt.
+
+Overfull \hbox (33.719pt too wide) in paragraph at lines 342--347
+\OT1/cmtt/m/n/10 Fig [] to Fig [] the resultant magnetization plots described i
+n question
+ []
+
+<images/Q2_magnetizationT_1.0_4.png, id=603, 1928.20375pt x 1445.4pt>
+File: images/Q2_magnetizationT_1.0_4.png Graphic file (type png)
+<use images/Q2_magnetizationT_1.0_4.png>
+Package pdftex.def Info: images/Q2_magnetizationT_1.0_4.png  used on input line
+ 349.
+(pdftex.def)             Requested size: 1156.9312pt x 867.2467pt.
+
+LaTeX Warning: Float too large for page by 359.64667pt on input line 352.
+
+[25]
+Overfull \vbox (359.64667pt too high) has occurred while \output is active []
+
+
+[26 <./images/Q2_magnetizationT_1.0_3.png (PNG copy)>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: File `images/Q2_magnetizationT_1.0_5.p' not found on input line 
+354.
+
+
+! LaTeX Error: Unknown graphics extension: .p.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.354 ...e=0.6]{images/Q2_magnetizationT_1.0_5.p}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27 <./images/Q2_magnetizationT_1.0_4.png (PNG copy)>] [28] (main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 297 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 3887 strings out of 492891
+ 63289 string characters out of 3124098
+ 123373 words of memory out of 3000000
+ 7750 multiletter control sequences out of 15000+200000
+ 12007 words of font info for 48 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,7n,40p,679b,309s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Anya/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx10.pfb><C:/Users/Anya/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Anya/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Anya/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Anya/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:
+/Users/Anya/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+mi7.pfb><C:/Users/Anya/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><C:/Users/Anya/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr12.pfb><C:/Users/Anya/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Anya/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Anya/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Anya/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Us
+ers/Anya/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7
+.pfb><C:/Users/Anya/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmtt10.pfb>
+Output written on main.pdf (28 pages, 4554109 bytes).
+PDF statistics:
+ 654 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+
