@@ -1,4 +1,4 @@
 # Computational Physics
 
-Labwork for the course PHY407 taken at the University of Toronto in Fall 2020. 
-All work was completed my lab partner, Genevive Beauregard (github.com/ghbeau)
+Labwork for the course PHY407 taken at the University of Toronto in Fall 2020, placed on a public repository. 
+All work was done by Genevieve Beauregard (github.com/ghbeau) and Anna Shirklina (https://github.com/Anna-Shirkalina). 
